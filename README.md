@@ -1,6 +1,7 @@
 # Suraksha Setu
 
-![Suraksha Setu Logo](/api/placeholder/200/200)
+<!-- You'll need to add your project logo image here -->
+<!-- Example: ![Suraksha Setu Logo](path/to/your/logo.png) -->
 
 ## 🌟 Overview
 
